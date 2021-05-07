@@ -2,4 +2,4 @@
 Beginner JavaScript project
 
 ### Project preview
-![](.screenshot.png)
+![](./screenshot.png)
